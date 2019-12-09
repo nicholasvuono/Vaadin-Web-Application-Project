@@ -1,5 +1,5 @@
 # SafeSugarWebDashboard
-A cloned project form my old university account.
+A cloned project from my old university account.
 
 This is a data visualization web application intended for diabetic use. It is created using Java and the Vaadin web framework.
 
